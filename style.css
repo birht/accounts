@@ -11,7 +11,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #797aa7;
+	background: #a1b5b9;
 }
 .card {
 	position: relative;
@@ -135,7 +135,7 @@ body {
 	cursor: pointer;
 	color: #ddd;
 	margin: 0 8px;
-	font-size: 30px;
+	font-size: 35px;
 	opacity: 1;
 	transform: none;
 	transition: none;
