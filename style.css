@@ -93,13 +93,13 @@ body {
 	transform: translateY(0px);
 }
 .card .social-icons {
-	margin-top: 25px;
+	margin-top: 20px;
 }
 .card .social-icons i {
 	cursor: pointer;
 	color: #ddd;
-	margin: 0 8px;
-	font-size: 28px;
+	margin: 0 10px;
+	font-size: 35px;
 	opacity: 0;
 	transform: translateY(16px);
 	transition: 0.2s;
