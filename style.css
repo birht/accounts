@@ -76,7 +76,7 @@ body {
 	border-radius: 50%;
 	border: 12px solid rgba(255,255,255,.05);
 }
-.card .profile h2 {
+.card .profile h1 {
 	color: #f9f9f9;
 	font-size: 26px;
 	margin-top: 8px;
