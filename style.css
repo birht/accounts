@@ -12,7 +12,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #a1b5b9;
+	background: #505c70;
 }
 .card {
 	position: relative;
@@ -42,7 +42,7 @@ body {
 	height: 120px;
 	top: -50px;
 	left: -50px;
-	background: linear-gradient(#e524c3, #8626b2);
+	background: linear-gradient(#48ab73, #2c8251);
 	animation-name: move-up;
 }
 
@@ -52,7 +52,7 @@ body {
 	height: 180px;
 	bottom: -80px;
 	right: -86px;
-	background: linear-gradient(#d64612, #e48307);
+	background: linear-gradient(#8a9932, #8a9932);
 	animation-name: move-down;
 }
 @keyframes move-up {
