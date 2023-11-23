@@ -175,7 +175,7 @@ body {
 	height: 80px;
 	top: -35px;
 	left: -35px;
-	background: linear-gradient(#e524c3, #8626b2);
+	background: linear-gradient(#48ab73, #2c8251);
 	animation-name: move-up;
 }
 .card .circle:nth-child(2) {
@@ -183,7 +183,7 @@ body {
 	height: 90px;
 	bottom: -40px;
 	right: -46px;
-	background: linear-gradient(#d64612, #e48307);
+	background: linear-gradient(#8a9932, #8a9932);
 	animation-name: move-down;
 }
 @keyframes move-up {
@@ -202,3 +202,4 @@ body {
 		transform: translateY(10px);
 	}
 }
+	}
